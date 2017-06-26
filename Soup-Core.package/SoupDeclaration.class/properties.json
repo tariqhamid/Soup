@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 4/14/2016 08:19",
+	"super" : "SoupString",
+	"category" : "Soup-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SoupDeclaration",
+	"type" : "normal"
+}
